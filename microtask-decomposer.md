@@ -225,33 +225,23 @@ A skill NÃO deve:
 
 ### Spec Challenger
 
-Pergunta:
-
-> "Eu pensei corretamente sobre o que precisa ser construído?"
+> "Eu sei exatamente o que preciso construir?"
 
 ### Microtask Decomposer
-
-Pergunta:
 
 > "Como divido isso em unidades pequenas de trabalho?"
 
 ### Code Challenger
 
-Pergunta:
-
 > "Minha implementação pode estar tecnicamente errada?"
 
 ### Test Challenger
-
-Pergunta:
 
 > "Como eu sei que minha implementação realmente funciona?"
 
 ### Pre-PR Reviewer
 
-Pergunta:
-
-> "Está realmente pronto para virar PR?"
+> "Depois de tudo isso, existe algum motivo relevante para eu ainda não abrir o PR?"
 
 ---
 
