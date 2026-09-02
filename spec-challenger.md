@@ -302,6 +302,30 @@ A skill NÃO deve:
 
 ---
 
+## Diferença entre as skills
+
+### Spec Challenger
+
+> "Eu sei exatamente o que preciso construir?"
+
+### Microtask Decomposer
+
+> "Como divido isso em unidades pequenas de trabalho?"
+
+### Code Challenger
+
+> "Minha implementação pode estar tecnicamente errada?"
+
+### Test Challenger
+
+> "Como eu sei que minha implementação realmente funciona?"
+
+### Pre-PR Reviewer
+
+> "Depois de tudo isso, existe algum motivo relevante para eu ainda não abrir o PR?"
+
+---
+
 # Filosofia
 
 Esta skill existe para aumentar a capacidade de raciocínio do desenvolvedor, não para substituí-la.
