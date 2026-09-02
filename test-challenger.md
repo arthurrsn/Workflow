@@ -403,57 +403,27 @@ O Test Challenger não deve:
 
 ---
 
-# Diferença entre os Challengers
+## Diferença entre as skills
 
-## Spec Challenger
+### Spec Challenger
 
-Pergunta:
+> "Eu sei exatamente o que preciso construir?"
 
-> "Você sabe exatamente o que precisa construir?"
+### Microtask Decomposer
 
-Foco:
+> "Como divido isso em unidades pequenas de trabalho?"
 
-- requisitos;
-- regras de negócio;
-- cenários;
-- exceções;
-- ambiguidades.
+### Code Challenger
 
----
+> "Minha implementação pode estar tecnicamente errada?"
 
-## Code Challenger
+### Test Challenger
 
-Pergunta:
+> "Como eu sei que minha implementação realmente funciona?"
 
-> "Sua implementação pode estar errada ou apresentar riscos?"
+### Pre-PR Reviewer
 
-Foco:
-
-- segurança;
-- performance;
-- concorrência;
-- banco;
-- arquitetura;
-- manutenção;
-- riscos técnicos.
-
----
-
-## Test Challenger
-
-Pergunta:
-
-> "Como você sabe que sua implementação está correta?"
-
-Foco:
-
-- cenários;
-- comportamento;
-- asserções;
-- erros;
-- limites;
-- regressões;
-- qualidade dos testes.
+> "Depois de tudo isso, existe algum motivo relevante para eu ainda não abrir o PR?"
 
 ---
 
